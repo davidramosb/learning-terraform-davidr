@@ -1,0 +1,6 @@
+.terraform.lock.hcl
+backend.tf
+sync_upstream_branches.sh
+.terraform/terraform.tfstate
+.terraform/providers/registry.terraform.io/hashicorp/aws/6.14.1/windows_amd64/LICENSE.txt
+.terraform/providers/registry.terraform.io/hashicorp/aws/6.14.1/windows_amd64/terraform-provider-aws_v6.14.1_x5.exe
